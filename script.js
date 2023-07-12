@@ -436,4 +436,4 @@
 // const sayGoodbye = function () {
 //   console.log("goodbye");
 // };
-// sayGoodbye();
+sayGoodbye();
