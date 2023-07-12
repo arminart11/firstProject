@@ -426,14 +426,14 @@
 
 // console.log(c);
 
-// sayHello();
-// // function Declaration
-// function sayHello() {
-//   console.log("hello");
-// }
+sayHello();
+// function Declaration
+function sayHello() {
+  console.log("hello");
+}
 
-// // function Expression
-// const sayGoodbye = function () {
-//   console.log("goodbye");
-// };
+// function Expression
+const sayGoodbye = function () {
+  console.log("goodbye");
+};
 sayGoodbye();
